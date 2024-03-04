@@ -1,0 +1,13 @@
+.test {
+  gap: .5rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex {
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+}
