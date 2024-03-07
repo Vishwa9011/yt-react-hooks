@@ -6,7 +6,7 @@ const App = () => {
 
   return (
     <div className='flex'>
-      <button onClick={() => copyToClipboard("techie vishwa 1")}>{isCopied ? "Copied" : "Copy"}</button>
+      <button onClick={() => copyToClipboard("techie vishwa")}>{isCopied ? "Copied" : "Copy"}</button>
     </div>
   );
 }
